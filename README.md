@@ -6,7 +6,13 @@ This repository contains collection of all kind of small c projects.
 
 ```bash
 git clone https://github.com/zuhos/c-projects.git
-cd c-projects
+```
+```
+cd c-project
+```
+```
 gcc <program.c> -o main
+```
+```
 ./main or main.exe
-
+```
